@@ -9,6 +9,7 @@
 #include <QMessageBox>
 #include <QSqlRecord>
 #include <QScrollBar>
+#include <QDebug>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
